@@ -20,6 +20,7 @@ namespace Microsoft.eShopWeb.Web
 {
     public class Startup
     {
+        //comentario
         private IServiceCollection _services;
         public Startup(IConfiguration configuration)
         {
